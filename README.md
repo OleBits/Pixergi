@@ -1,4 +1,4 @@
-Hello! I´m learning Data science and it´s so exited
+Hello! I´m learning Data science and it´s so exiting!
 
 <!--
 **Pixergi/Pixergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
